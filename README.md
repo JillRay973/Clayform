@@ -1,5 +1,6 @@
 # Clayform
 
+Aka for my fellow artist friends who don't want to pay for Zbrush
 A digital sculpting app that runs entirely in the browser: no install, no build step, one HTML file. It works with a mouse, a trackpad, or an iPad with Apple Pencil (pressure supported, palm ignored while drawing).
 
 **Live demo:** turn on GitHub Pages for this repo (see below) and it'll be at `https://<your-username>.github.io/clayform/`.
